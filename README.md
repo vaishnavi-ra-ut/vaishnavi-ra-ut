@@ -18,7 +18,7 @@
 **vaishnavi-ra-ut/vaishnavi-ra-ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
